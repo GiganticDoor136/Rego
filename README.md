@@ -1,0 +1,2 @@
+# Rego
+Go rego
